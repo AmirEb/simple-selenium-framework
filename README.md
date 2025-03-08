@@ -15,7 +15,7 @@ A simple and efficient **Java Selenium** framework designed for automating web a
 
 To get started with the framework, you will need the following:
 
-- **Java 18+** or higher
+- **Java 18** or higher
 - **Maven** or **Gradle** for project management
 - **Selenium WebDriver** for browser automation
 - **ExtentReports** for generating test reports
